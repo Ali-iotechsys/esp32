@@ -1,4 +1,7 @@
 # esp32
+### Board Info:
+ESP32 WROOM-32 USB-Type C Development Board Dual Core WiFi Bluetooth [spec](./doc/specification.txt).
+
 ### ESP32 examples in Rust:
 - [hello world](./hello/src/main.rs)
 - [blink LED](./blinky/src/main.rs)

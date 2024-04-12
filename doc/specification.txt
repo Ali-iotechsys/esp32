@@ -1,0 +1,31 @@
+Item specifics:
+
+Type: Sensor Development Board
+Kit Name: DKJNA ESP32-C
+Supported Device: ESP home
+Features: Audio Interface, Bluetooth Connectivity, Display Interface, Flash Memory, LED, WiFi Connectivity
+RAM Size: 520 SK Ram
+Series: NodeMCU
+
+Item description:
+
+Introducing the versatile and powerful ESP32 WROOM-32 Development Board! Ideal for both beginners and experienced tech enthusiasts, this development board is perfect for a vast array of applications, from simple hobbyist projects to complex professional development tasks.
+
+**Dual-Core Power**: At the heart of our board is the ESP32 chip, featuring a robust dual-core system. This powerful chip ensures swift and efficient processing for all your projects, offering a wide range of possibilities.
+
+**WiFi and Bluetooth Capability**: With full WiFi and Bluetooth capabilities, you can connect your board to local WiFi networks, and pair it with other Bluetooth-enabled devices with ease. This opens up a world of IoT possibilities - create a weather station, control lights, or even build your own smart home system.
+
+**USB Type C Interface & CH340C chip**: The inclusion of a USB type-C interface ensures a reliable power supply and seamless data transfer. We've also integrated the popular CH340C chip that serves as the bridge between USB and serial, making it easy for you to upload code and establish communication with your computer.
+
+**Arduino and Python Compatibility**: One of the standout features of our ESP32 development board is its compatibility with both the Arduino IDE and Python programming language. Whether you're a fan of the straightforward, structure-based Arduino language or prefer the flexibility of Python, this development board accommodates your coding preference. You can enjoy the ease of using existing Arduino libraries or leverage the power of Python to create more sophisticated projects.
+
+**Project Versatility**: With this board, you're limited only by your imagination! You could create a home automation system, build a robot, develop a security system with sensors, or even design a custom game. Whatever your passion project, this development board has got you covered.
+
+**Easy to Use**: Whether you're an experienced developer or a beginner stepping into the world of IoT and embedded systems, this board offers ease-of-use and flexibility. It's a fantastic learning tool and a reliable choice for more advanced tech applications.
+
+With our ESP32 WROOM-32 Development Board, you're not just buying a product - you're gaining a partner for your tech journey. It's time to bring your ideas to life. Order yours today and start exploring the endless opportunities!
+
+Shipping: Ships fast and secure. Please refer to our shipping policies for more information.
+
+
+Once you receive your purchase, and are new to using the ESP32 platform, I can recommend a guide to best get you started. If you're having any trouble at all starting off your projects, feel free to contact me with any questions or for a link to the guide. Love to help.
