@@ -1,7 +1,7 @@
 # esp32
 ### ESP32 examples in Rust:
-- hello world
-- blink LED
+- ![hello world](./hello/src/main.rs)
+- ![blink LED](./blinky/src/main.rs)
 
 ### ESP32-WROOM32 layout: ![link](./esp32-wroom32.png)
 
